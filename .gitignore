@@ -1,0 +1,14 @@
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# Virtual environments
+.venv/
+venv/
